@@ -45,7 +45,7 @@ Agent → Collector → Analyzer → Root Cause → Fix Suggestion
 ## 📂 项目结构
 
 
-
+```
 agent_debug_mvp/
  │
  ├── agent.py        # 模拟分布式 Agent
